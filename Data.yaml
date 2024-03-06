@@ -1,0 +1,6 @@
+train: Train/Images
+val: Test/Images
+
+nc: 1
+names: ['dustbin']
+
